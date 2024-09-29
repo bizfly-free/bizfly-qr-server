@@ -3,4 +3,5 @@
   "editor.insertSpaces": true,
   "editor.detectIndentation": false,
   "editor.formatOnSave": true,
+  "typescript.preferences.importModuleSpecifier": "non-relative",
 }
